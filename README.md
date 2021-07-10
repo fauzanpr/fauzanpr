@@ -45,7 +45,3 @@ Here are some ideas to get you started:
 
 ---
 <img align="left" alt="fauzanpr's github stats" src="https://github-readme-stats.vercel.app/api?username=fauzanpr&show_icons=true&hide_border=true&theme=prussian&hide=stars"/>
-<a href="https://github.com/fauzanpr/fauzanpr.github.io">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=prussian&hide_border=true "/>
-</a>
