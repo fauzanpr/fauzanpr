@@ -9,7 +9,7 @@
 <!--
 prussian
 -->
-- 🌱 omniLEARNa (belajar segala hal) 😂 but actually lebih fokus ke :
+- 🌱 Omni-LEARN-a (belajar segala hal) 😂 but actually lebih fokus ke :
   - Competitive Programming
   - Web Development
   - Robotics
