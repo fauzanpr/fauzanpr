@@ -7,18 +7,7 @@
 ## Halo semua!! 👋 
 ### Saya Fauzan Mahasiswa Informatika Politeknik Negeri Malang
 <!--
-**fauzanpr/fauzanpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+prussian
 -->
 - 🌱 omniLEARNa (belajar segala hal) 😂 
 - ⚡ Fun fact: I love you 👧 
@@ -44,8 +33,8 @@ Here are some ideas to get you started:
 <br/>
 
 ---
-<img align="left" alt="fauzanpr's github stats" src="https://github-readme-stats.vercel.app/api?username=fauzanpr&show_icons=true&hide_border=true&theme=prussian&hide=stars"/>
-<img align="centre" alt="fauzanpr's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanpr&theme=prussian&hide_border=true&layout=compact"/>
+<img align="left" alt="fauzanpr's github stats" src="https://github-readme-stats.vercel.app/api?username=fauzanpr&show_icons=true&hide_border=true&theme=default&hide=stars"/>
+<img align="centre" alt="fauzanpr's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanpr&theme=default&hide_border=true&layout=compact"/>
 
 <br />
 
