@@ -9,7 +9,10 @@
 <!--
 prussian
 -->
-- 🌱 omniLEARNa (belajar segala hal) 😂 
+- 🌱 omniLEARNa (belajar segala hal) 😂 but actually lebih fokus ke :
+  - Competitive Programming
+  - Web Development
+  - Robotics
 - ⚡ Fun fact: I love you 👧 
 
 ### Find me at<a href="https://www.instagram.com/fauzanpr_/">
