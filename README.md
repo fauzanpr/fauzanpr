@@ -45,3 +45,8 @@ Here are some ideas to get you started:
 
 ---
 <img align="left" alt="fauzanpr's github stats" src="https://github-readme-stats.vercel.app/api?username=fauzanpr&show_icons=true&hide_border=true&theme=prussian&hide=stars"/>
+<img align="centre" alt="fauzanpr's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fauzanpr&theme=prussian&hide_border=true&layout=compact"/>
+
+<br />
+
+<p>*stats from <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a></p>
