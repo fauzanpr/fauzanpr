@@ -9,7 +9,7 @@
 <!--
 prussian
 -->
-- 🌱 Omni-LEARN-a (belajar segala hal) 😂
+- 🌱 Learner
 - ⚡ Fun fact: I love you 👧 
 - 👨‍🔬 Currently Learning : Frontend Web Development
 
