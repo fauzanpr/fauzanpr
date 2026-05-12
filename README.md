@@ -1,5 +1,4 @@
 ### Hi, There. I am Fauzan 
-👨‍🔬 Currently Learning : React Ecosystem
 
 ##### Find me at
 <a href="https://www.instagram.com/_.ozannn/">
